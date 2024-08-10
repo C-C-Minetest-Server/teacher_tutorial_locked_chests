@@ -16,7 +16,7 @@ teacher.register_turorial("teacher_tutorial_locked_chests:use_locked_chests", {
     },
 
     {
-        texture = "teacher_tutorial_locked_chests_1.png",
+        texture = "teacher_tutorial_locked_chests_1.jpg",
         text = {
             S("Storing items in normal chests is dangerous. Other players may take your items from your chest."),
             S("To prevent this, use locked chests instead of the normal ones. " ..
